@@ -1,6 +1,6 @@
 # Hi, I'm Yury 👋
 
-**QA Automation Engineer** · Python · Selenium · Playwright · pytest
+**QA Automation Engineer** · Python · Playwright · Selenium · pytest
 
 I build reliable test frameworks and automate UI & API testing. Currently focused on expanding my skills in CI/CD and test architecture.
 
@@ -19,7 +19,6 @@ I build reliable test frameworks and automate UI & API testing. Currently focuse
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Infrastructure**
 
@@ -34,6 +33,7 @@ I build reliable test frameworks and automate UI & API testing. Currently focuse
 
 | Project                                                                            | Description                                                                                             | Stack                                       |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| [🛒 Toolshop Autotests](https://github.com/deusvu1t/toolshop-autotests)            | UI & API test automation for practicesoftwaretesting.com — POM, Allure reports, CI/CD via GitHub Actions | Playwright · httpx · pytest · Allure · GitHub Actions |
 | [🍕 Pizzeria Autotests](https://github.com/deusvu1t/Pizzeria-Autotests-Selenium)   | UI test automation for a web app — POM, Allure reports, screenshot on failure, CI/CD via GitHub Actions | Selenium · pytest · Allure · GitHub Actions |
 | [🎬 Kinopoisk Telegram Bot](https://github.com/deusvu1t/python-telegram-bot)       | Telegram bot for searching movies via Kinopoisk API with search history                                 | pyTelegramBotAPI · SQLite · peewee          |
 | [🧪 QA Pet Project (Swag Labs)](https://github.com/deusvu1t/pet-project-swag-labs) | UI + API automated tests with Page Object Model and Allure reporting                                    | Playwright · requests · pytest              |
