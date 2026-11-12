@@ -50,28 +50,3 @@
   <a href="https://streak-stats.demolab.com/"><img src="https://streak-stats.demolab.com/?user=deusvu1t&amp;hide_border=true&amp;background=19192B&amp;ring=FFA726&amp;fire=755AE8&amp;currStreakNum=FFDA45&amp;currStreakLabel=FFA726&amp;sideNums=FF4081&amp;sideLabels=FF4081&amp;dates=A5F3FC&amp;stroke=888899" alt="GitHub Streak" width="57%"></a>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deusvu1t&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=19192B&amp;title_color=FFA726&amp;text_color=FFFFFF&amp;custom_title=My%20Programming%20Languages" alt="My Programming Languages" width="41%">
 </p>
-
----
-
-<table>
-  <tr>
-    <td><a href="https://github.com/deusvu1t?tab=overview#js-contribution-activity"><img width="650" alt="GitHub contribution calendar" src="https://contribkit.app/user/deusvu1t.svg?palette=github&amp;background=%230d1117"></a></td>
-    <td width="112" valign="top">
-      <a href="https://github.com/deusvu1t?tab=overview&amp;from=2026-01-01&amp;to=2026-12-31#js-contribution-activity"><img alt="2026" src="https://img.shields.io/badge/2026-1F6FEB?style=flat-square"></a><br>
-      <a href="https://github.com/deusvu1t?tab=overview&amp;from=2025-01-01&amp;to=2025-12-31#js-contribution-activity">2025</a>
-    </td>
-  </tr>
-</table>
-
-## Contribution Activity
-
-<sub><strong>November</strong> 2026</sub>
-
----
-
-> **37 commits across 2 repositories** · 1 pull request opened
->
-> [LibraryManagement](https://github.com/deusvu1t/LibraryManagement) · 36 commits  
-> [pet-project-swag-labs](https://github.com/deusvu1t/pet-project-swag-labs) · 1 commit
-
-[![Show more activity](assets/show-more-activity.svg)](https://github.com/deusvu1t?tab=overview#js-contribution-activity)
