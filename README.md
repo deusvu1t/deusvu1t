@@ -16,7 +16,7 @@
 
 ### Languages
 
-![C#, ASP.NET, and Python](https://skillicons.dev/icons?i=cs,dotnet,python)
+![.NET, C#, and Python](https://skillicons.dev/icons?i=dotnet,cs,python)
 
 ---
 
