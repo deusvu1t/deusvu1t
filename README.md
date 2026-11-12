@@ -50,13 +50,3 @@
   <a href="https://streak-stats.demolab.com/"><img src="https://streak-stats.demolab.com/?user=deusvu1t&amp;hide_border=true&amp;background=19192B&amp;ring=FFA726&amp;fire=755AE8&amp;currStreakNum=FFDA45&amp;currStreakLabel=FFA726&amp;sideNums=FF4081&amp;sideLabels=FF4081&amp;dates=A5F3FC&amp;stroke=888899" alt="GitHub Streak" width="57%"></a>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deusvu1t&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=19192B&amp;title_color=FFA726&amp;text_color=FFFFFF&amp;custom_title=My%20Programming%20Languages" alt="My Programming Languages" width="41%">
 </p>
-
-![Profile views](https://komarev.com/ghpvc/?username=deusvu1t&style=flat&color=blue)
-
----
-
-## 📬 Connect with me
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mr_deusvult)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrdeusvult/)
-[![GitHub Pages](https://img.shields.io/badge/Website-222222?style=flat&logo=github&logoColor=white)](https://deusvu1t.github.io)
