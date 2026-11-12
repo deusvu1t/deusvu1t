@@ -46,9 +46,10 @@
 
 ## 📊 GitHub Stats
 
-![My Programming Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deusvu1t&layout=compact&langs_count=5&hide_border=true&bg_color=19192B&title_color=FFA726&text_color=FFFFFF&custom_title=My%20Programming%20Languages)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deusvu1t&hide_border=true&background=19192B&ring=FFA726&fire=755AE8&currStreakNum=FFDA45&currStreakLabel=FFA726&sideNums=FF4081&sideLabels=FF4081&dates=A5F3FC&stroke=888899)](https://streak-stats.demolab.com/)
+<p>
+  <a href="https://streak-stats.demolab.com/"><img src="https://streak-stats.demolab.com/?user=deusvu1t&amp;hide_border=true&amp;background=19192B&amp;ring=FFA726&amp;fire=755AE8&amp;currStreakNum=FFDA45&amp;currStreakLabel=FFA726&amp;sideNums=FF4081&amp;sideLabels=FF4081&amp;dates=A5F3FC&amp;stroke=888899" alt="GitHub Streak" width="57%"></a>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deusvu1t&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=19192B&amp;title_color=FFA726&amp;text_color=FFFFFF&amp;custom_title=My%20Programming%20Languages" alt="My Programming Languages" width="41%">
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=deusvu1t&style=flat&color=blue)
 
