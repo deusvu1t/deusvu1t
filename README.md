@@ -2,6 +2,11 @@
 
 <h3 align="center">.NET Backend Developer • ASP.NET Core • C# • SQL Server</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrdeusvult/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://t.me/mr_deusvult"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
+</p>
+
 I build reliable test frameworks and automate UI & API testing. Currently focused on expanding my skills in CI/CD and test architecture.
 
 ---
