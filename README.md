@@ -1,4 +1,4 @@
-# Hi, I'm Yury 👋
+<h1 align="center">Hi 👋, I'm Yury Hryshanau</h1>
 
 **QA Automation Engineer** · Python · Playwright · Selenium · pytest
 
