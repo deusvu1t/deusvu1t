@@ -10,7 +10,7 @@
   <a href="https://www.codewars.com/users/Crazyfire"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&amp;logo=codewars&amp;logoColor=white" alt="Codewars"></a>
 </p>
 
-I build web APIs with C# and ASP.NET Core. My current project is a library catalog API with PostgreSQL, EF Core, and interactive OpenAPI documentation.
+I build web APIs with C# and ASP.NET Core.
 
 ---
 
