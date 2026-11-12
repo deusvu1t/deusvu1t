@@ -30,7 +30,7 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [LibraryManagement](https://github.com/deusvu1t/LibraryManagement) | Library catalog API for books, authors, and categories, with pagination and interactive OpenAPI documentation. | C# · ASP.NET Core (.NET 10) · EF Core · PostgreSQL · Scalar |
+| [📚 LibraryManagement](https://github.com/deusvu1t/LibraryManagement) | Library catalog API for books, authors, and categories, with pagination and interactive OpenAPI documentation. | C# · ASP.NET Core (.NET 10) · EF Core · PostgreSQL · Scalar |
 
 ### Python & AQA
 
