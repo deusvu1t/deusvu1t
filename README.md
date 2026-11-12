@@ -18,6 +18,10 @@
 
 ![.NET, C#, and Python](https://skillicons.dev/icons?i=dotnet,cs,python)
 
+### Tools
+
+![Visual Studio, VS Code, Git, and PostgreSQL](https://skillicons.dev/icons?i=visualstudio,vscode,git,postgres)
+
 ---
 
 ## 🚀 Featured Projects
