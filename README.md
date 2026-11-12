@@ -55,6 +55,13 @@
 
 ## Contribution Activity
 
-[![GitHub contribution calendar for deusvu1t](https://contribkit.app/user/deusvu1t.svg?palette=github&background=%230d1117)](https://github.com/deusvu1t?tab=overview#contribution-activity)
+[![GitHub contribution calendar for deusvu1t](https://contribkit.app/user/deusvu1t.svg?palette=github&background=%230d1117)](https://github.com/deusvu1t?tab=overview#js-contribution-activity)
 
-[View full activity on GitHub](https://github.com/deusvu1t?tab=overview#contribution-activity)
+### November 2026
+
+37 commits across 2 repositories and 1 pull request opened.
+
+- [LibraryManagement](https://github.com/deusvu1t/LibraryManagement) · 36 commits
+- [pet-project-swag-labs](https://github.com/deusvu1t/pet-project-swag-labs) · 1 commit
+
+[Show more activity](https://github.com/deusvu1t?tab=overview#js-contribution-activity)
