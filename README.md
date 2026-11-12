@@ -22,6 +22,14 @@
 
 ## 🚀 Featured Projects
 
+### ASP.NET Core
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [LibraryManagement](https://github.com/deusvu1t/LibraryManagement) | Library catalog API for books, authors, and categories, with pagination and interactive OpenAPI documentation. | C# · ASP.NET Core (.NET 10) · EF Core · PostgreSQL · Scalar |
+
+### Python Projects
+
 | Project                                                                            | Description                                                                                             | Stack                                       |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | [🛒 Toolshop Autotests](https://github.com/deusvu1t/toolshop-autotests)            | UI & API test automation for practicesoftwaretesting.com — POM, Allure reports, CI/CD via GitHub Actions | Playwright · httpx · pytest · Allure · GitHub Actions |
