@@ -10,8 +10,6 @@
   <a href="https://www.codewars.com/users/Crazyfire"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&amp;logo=codewars&amp;logoColor=white" alt="Codewars"></a>
 </p>
 
-I build web APIs with C# and ASP.NET Core.
-
 ---
 
 ## 🛠 Tech Stack
