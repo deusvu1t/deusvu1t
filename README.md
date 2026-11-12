@@ -55,6 +55,6 @@
 
 ## Contribution Activity
 
-[![GitHub contribution calendar for deusvu1t](https://ssr-contributions-svg.vercel.app/_/deusvu1t?format=jpeg&chart=calendar&dark=true&widget_size=large&quality=2)](https://github.com/deusvu1t#contribution-activity)
+[![GitHub contribution calendar for deusvu1t](https://ghchart.rshah.org/39d353/deusvu1t)](https://github.com/deusvu1t?tab=overview#contribution-activity)
 
-[View full activity on GitHub](https://github.com/deusvu1t#contribution-activity)
+[View full activity on GitHub](https://github.com/deusvu1t?tab=overview#contribution-activity)
