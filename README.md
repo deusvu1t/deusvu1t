@@ -50,3 +50,11 @@
   <a href="https://streak-stats.demolab.com/"><img src="https://streak-stats.demolab.com/?user=deusvu1t&amp;hide_border=true&amp;background=19192B&amp;ring=FFA726&amp;fire=755AE8&amp;currStreakNum=FFDA45&amp;currStreakLabel=FFA726&amp;sideNums=FF4081&amp;sideLabels=FF4081&amp;dates=A5F3FC&amp;stroke=888899" alt="GitHub Streak" width="57%"></a>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deusvu1t&amp;layout=compact&amp;langs_count=5&amp;hide_border=true&amp;bg_color=19192B&amp;title_color=FFA726&amp;text_color=FFFFFF&amp;custom_title=My%20Programming%20Languages" alt="My Programming Languages" width="41%">
 </p>
+
+---
+
+## Contribution Activity
+
+[![GitHub contribution calendar for deusvu1t](https://ssr-contributions-svg.vercel.app/_/deusvu1t?format=jpeg&chart=calendar&dark=true&widget_size=large&quality=2)](https://github.com/deusvu1t#contribution-activity)
+
+[View full activity on GitHub](https://github.com/deusvu1t#contribution-activity)
