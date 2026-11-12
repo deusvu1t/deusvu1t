@@ -14,6 +14,10 @@
 
 ## 🛠 Tech Stack
 
+### Languages
+
+![C# and Python](https://skillicons.dev/icons?i=cs,python)
+
 ---
 
 ## 🚀 Featured Projects
