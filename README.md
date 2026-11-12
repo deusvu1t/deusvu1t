@@ -20,7 +20,7 @@
 
 ### Tools
 
-![Visual Studio, VS Code, Git, and PostgreSQL](https://skillicons.dev/icons?i=visualstudio,vscode,git,postgres)
+![Git, Visual Studio, VS Code, and PostgreSQL](https://skillicons.dev/icons?i=git,visualstudio,vscode,postgres)
 
 ---
 
