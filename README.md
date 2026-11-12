@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yury Hryshanau</h1>
 
-**QA Automation Engineer** · Python · Playwright · Selenium · pytest
+<h3 align="center">.NET Backend Developer • ASP.NET Core • C# • SQL Server</h3>
 
 I build reliable test frameworks and automate UI & API testing. Currently focused on expanding my skills in CI/CD and test architecture.
 
