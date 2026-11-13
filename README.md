@@ -41,6 +41,7 @@
 | [🎬 Kinopoisk Telegram Bot](https://github.com/deusvu1t/python-telegram-bot)       | Telegram bot for searching movies via Kinopoisk API with search history                                 | pyTelegramBotAPI · SQLite · peewee          |
 | [🧪 QA Pet Project (Swag Labs)](https://github.com/deusvu1t/pet-project-swag-labs) | UI + API automated tests with Page Object Model and Allure reporting                                    | Playwright · requests · pytest              |
 | [📚 Python Skillbox Tasks](https://github.com/deusvu1t/python-skillbox-tasks)      | 26 modules covering Flask, FastAPI, Docker, ORM, async, CI/CD and more                                  | Flask · FastAPI · Docker · SQLAlchemy       |
+| [🧪 python-autotests-basic](https://github.com/deusvu1t/python-autotests-basic) | UI autotests for GitHub and Skillbox using the Page Object Model and Allure reporting | Selenium · Playwright · pytest · Allure · Selenoid |
 
 ---
 
